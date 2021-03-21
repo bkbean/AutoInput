@@ -1,0 +1,4 @@
+﻿数据项1	{Tab}{Space}{Enter}
+数据项2	{Home}{End}
+数据项3	{PgUp}{PgDn}
+数据项4	{Up}{Down}{Left}{Right}
